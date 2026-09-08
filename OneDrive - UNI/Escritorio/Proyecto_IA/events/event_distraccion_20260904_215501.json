@@ -1,0 +1,11 @@
+{
+  "path": "events\\event_distraccion_20260904_215501.mp4",
+  "label": "distraccion",
+  "timestamp": "2026-09-05T03:55:02.662700Z",
+  "fps": 30.0,
+  "frame_count": 149,
+  "thumbnail": "events\\event_distraccion_20260904_215501.jpg",
+  "reasons": [
+    "face"
+  ]
+}

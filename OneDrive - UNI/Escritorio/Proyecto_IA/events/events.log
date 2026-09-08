@@ -1,0 +1,30 @@
+2026-09-04 19:46:12,968 INFO Evento guardado: events\event_distraccion_20260904_194609.avi (label=distraccion)
+2026-09-04 19:46:44,458 INFO Evento guardado: events\event_distraccion_20260904_194640.avi (label=distraccion)
+2026-09-04 19:47:03,462 INFO Evento guardado: events\event_distraccion_20260904_194659.avi (label=distraccion)
+2026-09-04 19:47:35,621 INFO Evento guardado: events\event_distraccion_20260904_194732.avi (label=distraccion)
+2026-09-04 19:48:15,484 INFO Evento guardado: events\event_distraccion_20260904_194811.avi (label=distraccion)
+2026-09-04 19:54:45,689 INFO Evento guardado: events\event_distraccion_20260904_195442.avi (label=distraccion)
+2026-09-04 19:55:25,923 INFO Evento guardado: events\event_distraccion_20260904_195522.avi (label=distraccion)
+2026-09-04 19:56:04,067 INFO Evento guardado: events\event_distraccion_20260904_195600.avi (label=distraccion)
+2026-09-04 19:56:32,827 INFO Evento guardado: events\event_distraccion_20260904_195629.avi (label=distraccion)
+2026-09-04 19:56:57,891 INFO Evento guardado: events\event_distraccion_20260904_195654.avi (label=distraccion)
+2026-09-04 19:58:58,447 INFO Evento guardado: events\event_distraccion_20260904_195854.avi (label=distraccion)
+2026-09-04 20:00:22,332 INFO Evento guardado: events\event_distraccion_20260904_200018.avi (label=distraccion)
+2026-09-04 20:00:38,392 INFO Evento guardado: events\event_distraccion_20260904_200034.avi (label=distraccion)
+2026-09-04 20:00:48,809 INFO Evento guardado: events\event_distraccion_20260904_200045.avi (label=distraccion)
+2026-09-04 20:00:59,945 INFO Evento guardado: events\event_distraccion_20260904_200056.avi (label=distraccion)
+2026-09-04 20:01:34,411 INFO Evento guardado: events\event_distraccion_20260904_200130.avi (label=distraccion)
+2026-09-04 20:01:46,960 INFO Evento guardado: events\event_distraccion_20260904_200143.avi (label=distraccion)
+2026-09-04 20:01:57,977 INFO Evento guardado: events\event_distraccion_20260904_200154.avi (label=distraccion)
+2026-09-04 20:02:08,300 INFO Evento guardado: events\event_distraccion_20260904_200204.avi (label=distraccion)
+2026-09-04 20:02:23,869 INFO Evento guardado: events\event_distraccion_20260904_200220.avi (label=distraccion)
+2026-09-04 20:02:34,634 INFO Evento guardado: events\event_distraccion_20260904_200230.avi (label=distraccion)
+2026-09-04 21:55:02,665 INFO Evento guardado (save_frames): events\event_distraccion_20260904_215501.mp4 (label=distraccion)
+2026-09-04 21:55:13,445 INFO Evento guardado (save_frames): events\event_distraccion_20260904_215511.mp4 (label=distraccion)
+2026-09-04 21:55:24,817 INFO Evento guardado (save_frames): events\event_distraccion_20260904_215523.mp4 (label=distraccion)
+2026-09-04 21:55:35,268 INFO Evento guardado (save_frames): events\event_distraccion_20260904_215533.mp4 (label=distraccion)
+2026-09-05 15:58:02,528 WARNING Falta EVENT_ENCRYPTION_KEY; se omitirá el guardado cifrado
+2026-09-05 15:58:05,939 ERROR Metadatos omitidos: no hay una clave Fernet válida en EVENT_ENCRYPTION_KEY
+2026-09-05 15:58:16,399 ERROR Metadatos omitidos: no hay una clave Fernet válida en EVENT_ENCRYPTION_KEY
+2026-09-05 15:58:26,610 ERROR Metadatos omitidos: no hay una clave Fernet válida en EVENT_ENCRYPTION_KEY
+2026-09-05 15:58:44,390 ERROR Metadatos omitidos: no hay una clave Fernet válida en EVENT_ENCRYPTION_KEY
